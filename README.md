@@ -20,7 +20,7 @@ Book enthusiast by day, crypto explorer by night. Finding fascinating parallels 
 
 ```text
 Blockchain    ███████████░░   
-Literature    ████████████░   
+Literature    █████████████   
 DeFi          ██████████░░░   
 Web3          ███████████░░
 
